@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/makefile-executor.el/makefile-executor.el

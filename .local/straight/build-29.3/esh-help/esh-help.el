@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/esh-help/esh-help.el

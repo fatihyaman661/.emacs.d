@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/swiper-helm/swiper-helm.el

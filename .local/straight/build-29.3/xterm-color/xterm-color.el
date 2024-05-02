@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/xterm-color/xterm-color.el

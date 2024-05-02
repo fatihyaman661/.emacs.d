@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/eshell-syntax-highlighting/eshell-syntax-highlighting.el

@@ -1,0 +1,25 @@
+doom sync
+flutter create --platform=linux testapp
+ls
+cd testapp/
+ls
+cd lib
+ls
+clang
+clang --help
+clang --test
+clang test
+flutter run
+clang++ 
+clang++ --help
+clang++ --version
+flutter 
+flutter test
+flutter run
+cd ..
+fluttre run
+flutter run
+flutter doctor
+flutter run
+flutter run -v
+flutter run

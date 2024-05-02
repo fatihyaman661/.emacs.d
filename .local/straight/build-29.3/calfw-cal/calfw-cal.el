@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/emacs-calfw/calfw-cal.el

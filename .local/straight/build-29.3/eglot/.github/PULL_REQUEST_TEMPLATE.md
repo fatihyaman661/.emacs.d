@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/eglot/.github/PULL_REQUEST_TEMPLATE.md

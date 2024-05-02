@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/helm-describe-modes/helm-describe-modes.el

@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/ivy-xref/ivy-xref.el

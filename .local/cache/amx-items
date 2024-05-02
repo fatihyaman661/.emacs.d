@@ -1,0 +1,33 @@
+
+;; ----- amx-history -----
+(
+ magit-push
+ magit
+ magit-init
+ magit-commit
+ magit-stage
+ magit-stage-file
+ magit-stage-modified
+)
+
+;; ----- amx-data -----
+(
+ (ivy-rich-mode . 4)
+ (doom/reload . 20)
+ (highlight-indent-guides-mode . 1)
+ (all-the-icons-ivy-rich-mode . 1)
+ (list-packages . 4)
+ (eshell . 4)
+ (flutter-test-all . 2)
+ (flutter-run-device . 1)
+ (flutter-run . 6)
+ (dart-mode . 1)
+ (term . 1)
+ (magit . 2)
+ (magit-stage . 3)
+ (magit-stage-modified . 1)
+ (magit-stage-file . 1)
+ (magit-commit . 2)
+ (magit-init . 1)
+ (magit-push . 2)
+)

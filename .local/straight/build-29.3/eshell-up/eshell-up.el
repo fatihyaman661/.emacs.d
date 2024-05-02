@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/eshell-up/eshell-up.el

@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/rainbow-mode/.github/PULL_REQUEST_TEMPLATE.md

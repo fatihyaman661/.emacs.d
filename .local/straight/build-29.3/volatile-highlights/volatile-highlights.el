@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/volatile-highlights.el/volatile-highlights.el

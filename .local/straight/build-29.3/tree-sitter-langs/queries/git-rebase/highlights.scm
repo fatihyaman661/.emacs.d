@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/tree-sitter-langs/queries/git-rebase/highlights.scm

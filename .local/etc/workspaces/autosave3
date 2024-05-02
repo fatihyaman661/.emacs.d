@@ -1,0 +1,50 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "main"
+            ((def-buffer ".bashrc" "/home/fatihyaman/.bashrc" sh-mode)
+             (def-buffer "main.dart" "/media/gamedisk/web_dev/testapp/lib/main.dart" dart-mode)
+             (def-eshell-buffer "*eshell*"
+                                ((major-mode . eshell-mode)
+                                 (default-directory . "/media/gamedisk/web_dev/testapp/")))
+             (def-buffer "hello.dart" "/media/gamedisk/web_dev/hello.dart" dart-mode)
+             (def-buffer "medi" "/home/fatihyaman/medi" fundamental-mode))
+            (def-wconf
+             (((min-height . 4)
+               (min-width . 10)
+               (min-height-ignore . 2)
+               (min-width-ignore . 4)
+               (min-height-safe . 1)
+               (min-width-safe . 2)
+               (min-pixel-height . 76)
+               (min-pixel-width . 90)
+               (min-pixel-height-ignore . 38)
+               (min-pixel-width-ignore . 36)
+               (min-pixel-height-safe . 19)
+               (min-pixel-width-safe . 18))
+              leaf
+              (pixel-width . 1920)
+              (pixel-height . 992)
+              (total-width . 213)
+              (total-height . 52)
+              (normal-height . 1.0)
+              (normal-width . 1.0)
+              (parameters
+               (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                          (0 0 .
+                                             [nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                          -1)))
+              (buffer "*eshell*"
+                      (selected . t)
+                      (hscroll . 0)
+                      (fringes 8 8 t nil)
+                      (margins nil)
+                      (scroll-bars nil 0 t nil 0 t nil)
+                      (vscroll . 0)
+                      (dedicated)
+                      (point . 191616)
+                      (start . 189500))
+              (prev-buffers
+               ("*eshell*" 187271 191616)
+               (".bashrc" 2798 4844)
+               ("*Flutter*" 1 1131))))
+            (def-params nil)
+            nil nil nil))

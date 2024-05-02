@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/eshell-z/eshell-z.el

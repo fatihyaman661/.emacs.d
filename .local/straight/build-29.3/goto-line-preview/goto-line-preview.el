@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/goto-line-preview/goto-line-preview.el

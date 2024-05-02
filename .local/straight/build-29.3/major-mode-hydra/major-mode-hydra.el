@@ -1,0 +1,1 @@
+/home/fatihyaman/.config/emacs/.local/straight/repos/major-mode-hydra.el/major-mode-hydra.el
